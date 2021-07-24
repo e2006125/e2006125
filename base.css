@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#mustop {
+    height: 50px;
+    background-color: goldenrod;
+    text-align: center;
+    padding: 50px 0;
+}
+
+#grey {
+    background-color: lightgray;
+}
